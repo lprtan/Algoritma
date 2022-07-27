@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\obj\Debug\netcoreapp3.1\KesirTuru.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\obj\Debug\netcoreapp3.1\KesirTuru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\obj\Debug\netcoreapp3.1\KesirTuru.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\obj\Debug\netcoreapp3.1\KesirTuru.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\obj\Debug\netcoreapp3.1\KesirTuru.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\bin\Debug\netcoreapp3.1\KesirTuru.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\bin\Debug\netcoreapp3.1\KesirTuru.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\bin\Debug\netcoreapp3.1\KesirTuru.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\bin\Debug\netcoreapp3.1\KesirTuru.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\bin\Debug\netcoreapp3.1\KesirTuru.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\bin\Debug\netcoreapp3.1\KesirTuru.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\obj\Debug\netcoreapp3.1\KesirTuru.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\obj\Debug\netcoreapp3.1\KesirTuru.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\KesirTuru\KesirTuru\obj\Debug\netcoreapp3.1\KesirTuru.genruntimeconfig.cache

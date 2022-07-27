@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\bin\Debug\netcoreapp3.1\ZamanDonusturme.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\bin\Debug\netcoreapp3.1\ZamanDonusturme.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\bin\Debug\netcoreapp3.1\ZamanDonusturme.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\bin\Debug\netcoreapp3.1\ZamanDonusturme.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\bin\Debug\netcoreapp3.1\ZamanDonusturme.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\bin\Debug\netcoreapp3.1\ZamanDonusturme.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\obj\Debug\netcoreapp3.1\ZamanDonusturme.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\obj\Debug\netcoreapp3.1\ZamanDonusturme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\obj\Debug\netcoreapp3.1\ZamanDonusturme.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\obj\Debug\netcoreapp3.1\ZamanDonusturme.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\obj\Debug\netcoreapp3.1\ZamanDonusturme.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\obj\Debug\netcoreapp3.1\ZamanDonusturme.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\obj\Debug\netcoreapp3.1\ZamanDonusturme.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\ZamanDonusturme\ZamanDonusturme\obj\Debug\netcoreapp3.1\ZamanDonusturme.genruntimeconfig.cache

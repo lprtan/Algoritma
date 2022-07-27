@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Carpma islemini toplama kullanarak yapma/1.0.0": {
+        "runtime": {
+          "Carpma islemini toplama kullanarak yapma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carpma islemini toplama kullanarak yapma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

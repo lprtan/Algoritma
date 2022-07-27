@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\bin\Debug\netcoreapp3.1\ListeToplamVeBolüm.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\bin\Debug\netcoreapp3.1\ListeToplamVeBolüm.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\bin\Debug\netcoreapp3.1\ListeToplamVeBolüm.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\bin\Debug\netcoreapp3.1\ListeToplamVeBolüm.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\bin\Debug\netcoreapp3.1\ListeToplamVeBolüm.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\bin\Debug\netcoreapp3.1\ListeToplamVeBolüm.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\obj\Debug\netcoreapp3.1\ListeToplamVeBolüm.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\obj\Debug\netcoreapp3.1\ListeToplamVeBolüm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\obj\Debug\netcoreapp3.1\ListeToplamVeBolüm.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\obj\Debug\netcoreapp3.1\ListeToplamVeBolüm.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\obj\Debug\netcoreapp3.1\ListeToplamVeBolüm.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\obj\Debug\netcoreapp3.1\ListeToplamVeBolüm.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\obj\Debug\netcoreapp3.1\ListeToplamVeBolüm.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\ListeToplamVeBolüm\ListeToplamVeBolüm\obj\Debug\netcoreapp3.1\ListeToplamVeBolüm.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\bin\Debug\netcoreapp3.1\Sifreleme.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\bin\Debug\netcoreapp3.1\Sifreleme.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\bin\Debug\netcoreapp3.1\Sifreleme.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\bin\Debug\netcoreapp3.1\Sifreleme.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\bin\Debug\netcoreapp3.1\Sifreleme.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\bin\Debug\netcoreapp3.1\Sifreleme.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\obj\Debug\netcoreapp3.1\Sifreleme.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\obj\Debug\netcoreapp3.1\Sifreleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\obj\Debug\netcoreapp3.1\Sifreleme.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\obj\Debug\netcoreapp3.1\Sifreleme.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\obj\Debug\netcoreapp3.1\Sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\obj\Debug\netcoreapp3.1\Sifreleme.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\obj\Debug\netcoreapp3.1\Sifreleme.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\Sifreleme\Sifreleme\obj\Debug\netcoreapp3.1\Sifreleme.genruntimeconfig.cache

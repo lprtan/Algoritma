@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\bin\Debug\netcoreapp3.1\ListMinMax.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\bin\Debug\netcoreapp3.1\ListMinMax.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\bin\Debug\netcoreapp3.1\ListMinMax.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\bin\Debug\netcoreapp3.1\ListMinMax.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\bin\Debug\netcoreapp3.1\ListMinMax.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\bin\Debug\netcoreapp3.1\ListMinMax.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\obj\Debug\netcoreapp3.1\ListMinMax.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\obj\Debug\netcoreapp3.1\ListMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\obj\Debug\netcoreapp3.1\ListMinMax.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\obj\Debug\netcoreapp3.1\ListMinMax.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\obj\Debug\netcoreapp3.1\ListMinMax.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\obj\Debug\netcoreapp3.1\ListMinMax.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\obj\Debug\netcoreapp3.1\ListMinMax.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\ListMinMax\ListMinMax\obj\Debug\netcoreapp3.1\ListMinMax.genruntimeconfig.cache

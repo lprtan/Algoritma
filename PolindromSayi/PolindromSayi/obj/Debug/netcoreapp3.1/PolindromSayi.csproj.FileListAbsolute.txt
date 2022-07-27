@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\bin\Debug\netcoreapp3.1\PolindromSayi.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\bin\Debug\netcoreapp3.1\PolindromSayi.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\bin\Debug\netcoreapp3.1\PolindromSayi.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\bin\Debug\netcoreapp3.1\PolindromSayi.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\bin\Debug\netcoreapp3.1\PolindromSayi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\bin\Debug\netcoreapp3.1\PolindromSayi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\obj\Debug\netcoreapp3.1\PolindromSayi.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\obj\Debug\netcoreapp3.1\PolindromSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\obj\Debug\netcoreapp3.1\PolindromSayi.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\obj\Debug\netcoreapp3.1\PolindromSayi.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\obj\Debug\netcoreapp3.1\PolindromSayi.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\obj\Debug\netcoreapp3.1\PolindromSayi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\obj\Debug\netcoreapp3.1\PolindromSayi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\PolindromSayi\PolindromSayi\obj\Debug\netcoreapp3.1\PolindromSayi.genruntimeconfig.cache

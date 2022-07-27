@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\bin\Debug\netcoreapp3.1\TCnoMatris.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\bin\Debug\netcoreapp3.1\TCnoMatris.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\bin\Debug\netcoreapp3.1\TCnoMatris.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\bin\Debug\netcoreapp3.1\TCnoMatris.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\bin\Debug\netcoreapp3.1\TCnoMatris.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\bin\Debug\netcoreapp3.1\TCnoMatris.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\obj\Debug\netcoreapp3.1\TCnoMatris.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\obj\Debug\netcoreapp3.1\TCnoMatris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\obj\Debug\netcoreapp3.1\TCnoMatris.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\obj\Debug\netcoreapp3.1\TCnoMatris.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\obj\Debug\netcoreapp3.1\TCnoMatris.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\obj\Debug\netcoreapp3.1\TCnoMatris.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\obj\Debug\netcoreapp3.1\TCnoMatris.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\TCnoMatris\TCnoMatris\obj\Debug\netcoreapp3.1\TCnoMatris.genruntimeconfig.cache

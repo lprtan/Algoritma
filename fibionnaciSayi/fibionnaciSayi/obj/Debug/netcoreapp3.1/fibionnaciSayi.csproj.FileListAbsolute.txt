@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\bin\Debug\netcoreapp3.1\fibionnaciSayi.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\bin\Debug\netcoreapp3.1\fibionnaciSayi.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\bin\Debug\netcoreapp3.1\fibionnaciSayi.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\bin\Debug\netcoreapp3.1\fibionnaciSayi.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\bin\Debug\netcoreapp3.1\fibionnaciSayi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\bin\Debug\netcoreapp3.1\fibionnaciSayi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\obj\Debug\netcoreapp3.1\fibionnaciSayi.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\obj\Debug\netcoreapp3.1\fibionnaciSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\obj\Debug\netcoreapp3.1\fibionnaciSayi.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\obj\Debug\netcoreapp3.1\fibionnaciSayi.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\obj\Debug\netcoreapp3.1\fibionnaciSayi.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\obj\Debug\netcoreapp3.1\fibionnaciSayi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\obj\Debug\netcoreapp3.1\fibionnaciSayi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\fibionnaciSayi\fibionnaciSayi\obj\Debug\netcoreapp3.1\fibionnaciSayi.genruntimeconfig.cache

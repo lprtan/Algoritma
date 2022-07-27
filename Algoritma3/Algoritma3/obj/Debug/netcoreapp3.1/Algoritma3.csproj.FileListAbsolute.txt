@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\bin\Debug\netcoreapp3.1\Algoritma3.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\bin\Debug\netcoreapp3.1\Algoritma3.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\bin\Debug\netcoreapp3.1\Algoritma3.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\bin\Debug\netcoreapp3.1\Algoritma3.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\bin\Debug\netcoreapp3.1\Algoritma3.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\bin\Debug\netcoreapp3.1\Algoritma3.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\obj\Debug\netcoreapp3.1\Algoritma3.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\obj\Debug\netcoreapp3.1\Algoritma3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\obj\Debug\netcoreapp3.1\Algoritma3.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\obj\Debug\netcoreapp3.1\Algoritma3.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\obj\Debug\netcoreapp3.1\Algoritma3.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\obj\Debug\netcoreapp3.1\Algoritma3.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\obj\Debug\netcoreapp3.1\Algoritma3.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\Algoritma3\Algoritma3\obj\Debug\netcoreapp3.1\Algoritma3.genruntimeconfig.cache

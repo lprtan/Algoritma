@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\bin\Debug\netcoreapp3.1\BuyukHarfBulma.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\bin\Debug\netcoreapp3.1\BuyukHarfBulma.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\bin\Debug\netcoreapp3.1\BuyukHarfBulma.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\bin\Debug\netcoreapp3.1\BuyukHarfBulma.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\bin\Debug\netcoreapp3.1\BuyukHarfBulma.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\bin\Debug\netcoreapp3.1\BuyukHarfBulma.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\obj\Debug\netcoreapp3.1\BuyukHarfBulma.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\obj\Debug\netcoreapp3.1\BuyukHarfBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\obj\Debug\netcoreapp3.1\BuyukHarfBulma.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\obj\Debug\netcoreapp3.1\BuyukHarfBulma.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\obj\Debug\netcoreapp3.1\BuyukHarfBulma.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\obj\Debug\netcoreapp3.1\BuyukHarfBulma.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\obj\Debug\netcoreapp3.1\BuyukHarfBulma.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukHarfBulma\BuyukHarfBulma\obj\Debug\netcoreapp3.1\BuyukHarfBulma.genruntimeconfig.cache

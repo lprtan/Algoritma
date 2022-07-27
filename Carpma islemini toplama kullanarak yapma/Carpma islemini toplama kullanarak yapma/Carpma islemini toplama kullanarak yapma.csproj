@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Carpma_islemini_toplama_kullanarak_yapma</RootNamespace>
+  </PropertyGroup>
+
+</Project>

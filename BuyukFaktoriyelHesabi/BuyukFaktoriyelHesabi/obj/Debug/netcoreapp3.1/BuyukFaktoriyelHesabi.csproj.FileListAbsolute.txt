@@ -1,0 +1,13 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\bin\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\bin\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\bin\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\bin\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\bin\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\bin\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\obj\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\obj\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\obj\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\obj\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\obj\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\obj\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\BuyukFaktoriyelHesabi\BuyukFaktoriyelHesabi\obj\Debug\netcoreapp3.1\BuyukFaktoriyelHesabi.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\bin\Debug\netcoreapp3.1\XSaatSonraSaat.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\bin\Debug\netcoreapp3.1\XSaatSonraSaat.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\bin\Debug\netcoreapp3.1\XSaatSonraSaat.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\bin\Debug\netcoreapp3.1\XSaatSonraSaat.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\bin\Debug\netcoreapp3.1\XSaatSonraSaat.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\bin\Debug\netcoreapp3.1\XSaatSonraSaat.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\obj\Debug\netcoreapp3.1\XSaatSonraSaat.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\obj\Debug\netcoreapp3.1\XSaatSonraSaat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\obj\Debug\netcoreapp3.1\XSaatSonraSaat.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\obj\Debug\netcoreapp3.1\XSaatSonraSaat.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\obj\Debug\netcoreapp3.1\XSaatSonraSaat.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\obj\Debug\netcoreapp3.1\XSaatSonraSaat.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\obj\Debug\netcoreapp3.1\XSaatSonraSaat.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\XSaatSonraSaat\XSaatSonraSaat\obj\Debug\netcoreapp3.1\XSaatSonraSaat.genruntimeconfig.cache

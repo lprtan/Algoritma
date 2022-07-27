@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\bin\Debug\netcoreapp3.1\KaraselSayi.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\bin\Debug\netcoreapp3.1\KaraselSayi.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\bin\Debug\netcoreapp3.1\KaraselSayi.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\bin\Debug\netcoreapp3.1\KaraselSayi.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\bin\Debug\netcoreapp3.1\KaraselSayi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\bin\Debug\netcoreapp3.1\KaraselSayi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\obj\Debug\netcoreapp3.1\KaraselSayi.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\obj\Debug\netcoreapp3.1\KaraselSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\obj\Debug\netcoreapp3.1\KaraselSayi.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\obj\Debug\netcoreapp3.1\KaraselSayi.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\obj\Debug\netcoreapp3.1\KaraselSayi.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\obj\Debug\netcoreapp3.1\KaraselSayi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\obj\Debug\netcoreapp3.1\KaraselSayi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\KaraselSayi\KaraselSayi\obj\Debug\netcoreapp3.1\KaraselSayi.genruntimeconfig.cache

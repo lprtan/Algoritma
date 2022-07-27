@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\bin\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\bin\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\bin\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\bin\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\bin\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\bin\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\obj\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\obj\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\obj\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\obj\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\obj\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\obj\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\obj\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\Carpma islemini toplama kullanarak yapma\Carpma islemini toplama kullanarak yapma\obj\Debug\netcoreapp3.1\Carpma islemini toplama kullanarak yapma.genruntimeconfig.cache

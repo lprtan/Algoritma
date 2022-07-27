@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\obj\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\obj\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\obj\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\obj\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\obj\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\bin\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\bin\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\bin\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\bin\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\bin\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\bin\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\obj\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\obj\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\DizilerVeRastgeleSayilar\DizilerVeRastgeleSayilar\obj\Debug\netcoreapp3.1\DizilerVeRastgeleSayilar.genruntimeconfig.cache

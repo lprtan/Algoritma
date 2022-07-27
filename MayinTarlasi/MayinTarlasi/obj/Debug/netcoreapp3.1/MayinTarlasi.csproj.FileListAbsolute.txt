@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.genruntimeconfig.cache

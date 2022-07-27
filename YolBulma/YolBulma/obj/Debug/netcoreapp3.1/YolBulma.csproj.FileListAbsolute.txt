@@ -1,0 +1,14 @@
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\bin\Debug\netcoreapp3.1\YolBulma.exe
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\bin\Debug\netcoreapp3.1\YolBulma.deps.json
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\bin\Debug\netcoreapp3.1\YolBulma.runtimeconfig.json
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\bin\Debug\netcoreapp3.1\YolBulma.runtimeconfig.dev.json
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\bin\Debug\netcoreapp3.1\YolBulma.dll
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\bin\Debug\netcoreapp3.1\YolBulma.pdb
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\obj\Debug\netcoreapp3.1\YolBulma.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\obj\Debug\netcoreapp3.1\YolBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\obj\Debug\netcoreapp3.1\YolBulma.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\obj\Debug\netcoreapp3.1\YolBulma.AssemblyInfo.cs
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\obj\Debug\netcoreapp3.1\YolBulma.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\obj\Debug\netcoreapp3.1\YolBulma.dll
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\obj\Debug\netcoreapp3.1\YolBulma.pdb
+C:\Users\Alperen Tan\source\repos\YolBulma\YolBulma\obj\Debug\netcoreapp3.1\YolBulma.genruntimeconfig.cache
