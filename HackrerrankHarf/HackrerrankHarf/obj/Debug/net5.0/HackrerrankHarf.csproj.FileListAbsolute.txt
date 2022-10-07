@@ -1,0 +1,15 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\bin\Debug\net5.0\HackrerrankHarf.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\bin\Debug\net5.0\HackrerrankHarf.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\bin\Debug\net5.0\HackrerrankHarf.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\bin\Debug\net5.0\HackrerrankHarf.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\bin\Debug\net5.0\HackrerrankHarf.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\bin\Debug\net5.0\ref\HackrerrankHarf.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\bin\Debug\net5.0\HackrerrankHarf.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\obj\Debug\net5.0\HackrerrankHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\obj\Debug\net5.0\HackrerrankHarf.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\obj\Debug\net5.0\HackrerrankHarf.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\obj\Debug\net5.0\HackrerrankHarf.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\obj\Debug\net5.0\HackrerrankHarf.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\obj\Debug\net5.0\ref\HackrerrankHarf.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\obj\Debug\net5.0\HackrerrankHarf.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\HackrerrankHarf\HackrerrankHarf\obj\Debug\net5.0\HackrerrankHarf.genruntimeconfig.cache
