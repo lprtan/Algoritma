@@ -1,0 +1,16 @@
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\bin\Debug\net5.0\HighestScoringWord.exe
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\bin\Debug\net5.0\HighestScoringWord.deps.json
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\bin\Debug\net5.0\HighestScoringWord.runtimeconfig.json
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\bin\Debug\net5.0\HighestScoringWord.runtimeconfig.dev.json
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\bin\Debug\net5.0\HighestScoringWord.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\bin\Debug\net5.0\ref\HighestScoringWord.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\bin\Debug\net5.0\HighestScoringWord.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\obj\Debug\net5.0\HighestScoringWord.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\obj\Debug\net5.0\HighestScoringWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\obj\Debug\net5.0\HighestScoringWord.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\obj\Debug\net5.0\HighestScoringWord.AssemblyInfo.cs
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\obj\Debug\net5.0\HighestScoringWord.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\obj\Debug\net5.0\HighestScoringWord.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\obj\Debug\net5.0\ref\HighestScoringWord.dll
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\obj\Debug\net5.0\HighestScoringWord.pdb
+C:\Users\Alperen Tan\Desktop\C# yeni\HighestScoringWord\HighestScoringWord\obj\Debug\net5.0\HighestScoringWord.genruntimeconfig.cache
