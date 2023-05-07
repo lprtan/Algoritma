@@ -1,0 +1,16 @@
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\bin\Debug\net5.0\FirstLetterToAppearTwince.exe
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\bin\Debug\net5.0\FirstLetterToAppearTwince.deps.json
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\bin\Debug\net5.0\FirstLetterToAppearTwince.runtimeconfig.json
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\bin\Debug\net5.0\FirstLetterToAppearTwince.runtimeconfig.dev.json
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\bin\Debug\net5.0\FirstLetterToAppearTwince.dll
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\bin\Debug\net5.0\ref\FirstLetterToAppearTwince.dll
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\bin\Debug\net5.0\FirstLetterToAppearTwince.pdb
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\obj\Debug\net5.0\FirstLetterToAppearTwince.csproj.AssemblyReference.cache
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\obj\Debug\net5.0\FirstLetterToAppearTwince.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\obj\Debug\net5.0\FirstLetterToAppearTwince.AssemblyInfoInputs.cache
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\obj\Debug\net5.0\FirstLetterToAppearTwince.AssemblyInfo.cs
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\obj\Debug\net5.0\FirstLetterToAppearTwince.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\obj\Debug\net5.0\FirstLetterToAppearTwince.dll
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\obj\Debug\net5.0\ref\FirstLetterToAppearTwince.dll
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\obj\Debug\net5.0\FirstLetterToAppearTwince.pdb
+C:\Users\Alperen Tan\source\repos\FirstLetterToAppearTwince\FirstLetterToAppearTwince\obj\Debug\net5.0\FirstLetterToAppearTwince.genruntimeconfig.cache
