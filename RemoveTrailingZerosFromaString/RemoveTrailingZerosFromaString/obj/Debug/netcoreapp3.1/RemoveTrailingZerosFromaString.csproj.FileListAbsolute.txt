@@ -1,0 +1,14 @@
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\bin\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.exe
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\bin\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.deps.json
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\bin\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.runtimeconfig.json
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\bin\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.runtimeconfig.dev.json
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\bin\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.dll
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\bin\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.pdb
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\obj\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.csproj.AssemblyReference.cache
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\obj\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\obj\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.AssemblyInfoInputs.cache
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\obj\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.AssemblyInfo.cs
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\obj\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.csproj.CoreCompileInputs.cache
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\obj\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.dll
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\obj\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.pdb
+C:\Users\alperen.tan\source\repos\RemoveTrailingZerosFromaString\RemoveTrailingZerosFromaString\obj\Debug\netcoreapp3.1\RemoveTrailingZerosFromaString.genruntimeconfig.cache
