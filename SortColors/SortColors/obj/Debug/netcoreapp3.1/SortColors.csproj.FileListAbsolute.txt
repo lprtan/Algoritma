@@ -1,0 +1,14 @@
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\bin\Debug\netcoreapp3.1\SortColors.exe
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\bin\Debug\netcoreapp3.1\SortColors.deps.json
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\bin\Debug\netcoreapp3.1\SortColors.runtimeconfig.json
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\bin\Debug\netcoreapp3.1\SortColors.runtimeconfig.dev.json
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\bin\Debug\netcoreapp3.1\SortColors.dll
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\bin\Debug\netcoreapp3.1\SortColors.pdb
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\obj\Debug\netcoreapp3.1\SortColors.csproj.AssemblyReference.cache
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\obj\Debug\netcoreapp3.1\SortColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\obj\Debug\netcoreapp3.1\SortColors.AssemblyInfoInputs.cache
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\obj\Debug\netcoreapp3.1\SortColors.AssemblyInfo.cs
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\obj\Debug\netcoreapp3.1\SortColors.csproj.CoreCompileInputs.cache
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\obj\Debug\netcoreapp3.1\SortColors.dll
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\obj\Debug\netcoreapp3.1\SortColors.pdb
+C:\Users\alperen.tan\source\repos\SortColors\SortColors\obj\Debug\netcoreapp3.1\SortColors.genruntimeconfig.cache
